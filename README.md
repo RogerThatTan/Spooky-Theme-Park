@@ -8,45 +8,40 @@
 
 ### Control Instructions:
 
-**Frog Hopper Controls**
+* **Frog Hopper Controls**
 
-i: Increase speed
-l: Decrease speed
-a: Stop
-q: Start
+  * `i`: Increase speed
+  * `l`: Decrease speed
+  * `a`: Stop
+  * `q`: Start
+* **Black Ship Controls**
 
-**Black Ship Controls**
+  * `s`: Stop
+  * `w`: Start
+* **White Ship Controls**
 
-s: Stop
-w: Start
-White Ship Controls:
+  * `d`: Stop
+  * `e`: Start
+* **Train Controls**
 
-d: Stop
-e: Start
-Train Controls:
+  * `f`: Stop
+  * `r`: Start
+  * `y`: Increase speed
+  * `h`: Decrease speed
+* **Ride Controls**
 
-f: Stop
-r: Start
-y: Increase speed
-h: Decrease speed
-Ride Controls:
+  * `t`: Start
+  * `g`: Stop
+* **Ghost Controls**
 
-t: Start
-g: Stop
-Ghost Controls:
+  * `z`: Increase movement speed
+  * `x`: Decrease movement speed
+  * `c`: Stop
+  * `v`: Start
+* **Lamp Control:**
 
-z: Increase movement speed
-x: Decrease movement speed
-c: Stop
-v: Start
-Lamp Control:
+  * `m`: Toggle lamp color
+* **Day/Night Mode:**
 
-m: Toggle lamp color
-Nagordola (Ferris Wheel) Controls:
-
-j: Start
-k: Stop
-Day/Night Mode:
-
-b: Switch to Day Mode
-n: Switch to Night Mode
+  * `b`: Switch to Day Mode
+  * `n`: Switch to Night Mode
