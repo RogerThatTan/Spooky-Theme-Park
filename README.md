@@ -45,3 +45,43 @@
 
   * `b`: Switch to Day Mode
   * `n`: Switch to Night Mode
+
+---
+
+### Screenshots:
+<h5 align = center>Day Mode</h5>
+
+![WhatsApp Image 2024-05-23 at 23 28 22_bd36f97c](https://github.com/RogerThatTan/Spooky-Theme-Park/assets/101284808/123b9ce8-30bf-40bd-8a17-a385f5c558bf)
+
+---
+
+<h5 align = center>Evening Mode</h5>
+
+![WhatsApp Image 2024-05-23 at 23 28 38_4b92ddd5](https://github.com/RogerThatTan/Spooky-Theme-Park/assets/101284808/52501ea9-94e5-496d-8596-8754ad17b258)
+
+---
+
+<h5 align = center>Night/Spooky Mode</h5>
+
+![WhatsApp Image 2024-05-23 at 23 29 02_4696017f](https://github.com/RogerThatTan/Spooky-Theme-Park/assets/101284808/1c758237-a3b7-41eb-b30f-0e9d56de2763)
+
+---
+
+
+### Project Demonstration:
+
+https://github.com/RogerThatTan/Spooky-Theme-Park/assets/101284808/2b3834ea-4f56-4fb1-bbe7-46272e2e9a19
+
+---
+
+<div align=center>
+   
+![e25dfcf7-27dc-406a-a0b8-04e6d23b9f12_text](https://github.com/RogerThatTan/Universus-Tourism-Frontend/assets/101284808/e81da4c5-6c99-469f-80f5-c8baed2f4f6f)
+
+</div>
+
+
+
+
+
+
